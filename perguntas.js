@@ -30,6 +30,6 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'O que é uma variável?',
+    'O que é variável?',
     'Espaço para armazenar valores.'
 )
